@@ -1,0 +1,1 @@
+Yo my names Chesco and Im a small web and code dev. I used to make shit like roblox executors but now I mostly focus on coding projects like batch files, python, C-Sharp, and C++ projects like this one. This is just a bootstrapper for the roblox executor Xeno bc it stopped working recently.
